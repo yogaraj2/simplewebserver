@@ -6,7 +6,14 @@ content = """
 <title>My webserver</title>
 </head>
 <body>
-<h1>Welcome<h1>
+<table border=2>
+<tr>
+<th>Company</th> <th>Revenue</th> <th>Financial Year</th>
+</tr>
+<tr>
+<th>Micro Soft</th> <th>$9034</th> <th>2014</th>
+</tr>
+</table>
 </body>
 </html>
 """
