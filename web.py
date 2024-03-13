@@ -11,7 +11,7 @@ content = """
 <th>Company</th> <th>Revenue</th> <th>Financial Year</th>
 </tr>
 <tr>
-<th>Micro Soft</th> <th>$9034</th> <th>2014</th>
+<td>Micro Soft</td> <td>$9034</td> <td>2014</td>
 </tr>
 </table>
 </body>
