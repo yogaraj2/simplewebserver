@@ -38,9 +38,7 @@ content = """
 <tr>
 
 	<th>S.no</th>
-	
- 	<th>Company</th>
-	
+	<th>Company</th>
  	<th>Revenue</th>
 
 </tr>
